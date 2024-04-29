@@ -1,9 +1,421 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:16:26.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="aEbe2pkZ8sEECzG04Wzy" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:56:51.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="uJftFKmDEa3G_gTt2MpX" version="24.3.1" type="github">
   <diagram name="第 1 页" id="RjANDMqkexAoPWlaynZ2">
-    <mxGraphModel>
+    <mxGraphModel dx="1173" dy="665" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="600" as="sourcePoint" />
+            <mxPoint x="210" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-3" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-4" value="填充简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="490" as="sourcePoint" />
+            <mxPoint x="100" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="520" as="sourcePoint" />
+            <mxPoint x="100" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="520" as="sourcePoint" />
+            <mxPoint x="20" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="520" as="sourcePoint" />
+            <mxPoint x="40" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-10" value="学生信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="490" as="sourcePoint" />
+            <mxPoint x="210" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="520" as="sourcePoint" />
+            <mxPoint x="210" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="520" as="sourcePoint" />
+            <mxPoint x="130" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="520" as="sourcePoint" />
+            <mxPoint x="150" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-15" value="能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="710" as="sourcePoint" />
+            <mxPoint x="190" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="740" as="sourcePoint" />
+            <mxPoint x="190" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="740" as="sourcePoint" />
+            <mxPoint x="110" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="740" as="sourcePoint" />
+            <mxPoint x="130" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-20" value="简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="490" as="sourcePoint" />
+            <mxPoint x="310" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="520" as="sourcePoint" />
+            <mxPoint x="310" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="520" as="sourcePoint" />
+            <mxPoint x="250" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-25" value="简历模版库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="520" as="sourcePoint" />
+            <mxPoint x="90" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-27" value="学生信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.283;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.783;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-15" target="LNTtabJiNuTZUa_Hpd2q-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="750" as="sourcePoint" />
+            <mxPoint x="30" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-29" value="学生能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="592" as="sourcePoint" />
+            <mxPoint x="210" y="602.6500000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="602.6500000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.489;exitY=1.089;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="700" as="sourcePoint" />
+            <mxPoint x="150" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-35" value="简历草稿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-37" value="学生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.031;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.5999999999999" y="620.0000000000001" as="sourcePoint" />
+            <mxPoint x="210" y="620.0200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-39" value="填充简历命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="396" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-41" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="630" as="sourcePoint" />
+            <mxPoint x="260" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-42" value="简历草稿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.581;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-25" target="LNTtabJiNuTZUa_Hpd2q-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291" y="522" as="sourcePoint" />
+            <mxPoint x="210" y="602.6500000000001" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-32" value="模版列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="730" as="sourcePoint" />
+            <mxPoint x="500" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-48" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-49" value="修改简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.229;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.139;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-36" target="LNTtabJiNuTZUa_Hpd2q-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-51" value="修改简历命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.761;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.704;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-48" target="LNTtabJiNuTZUa_Hpd2q-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-53" value="修改后简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.972;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-20" target="LNTtabJiNuTZUa_Hpd2q-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="820" as="sourcePoint" />
+            <mxPoint x="370" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.006;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-46" target="LNTtabJiNuTZUa_Hpd2q-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="740" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-56" value="原简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-57" value="修改后简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.121;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="570" as="sourcePoint" />
+            <mxPoint x="310" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-59" value="自定义模版" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.031;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LNTtabJiNuTZUa_Hpd2q-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="580" as="sourcePoint" />
+            <mxPoint x="574.96" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-100" value="删除简历要求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LNTtabJiNuTZUa_Hpd2q-74">
+          <mxGeometry x="0.273" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="850" as="sourcePoint" />
+            <mxPoint x="220" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-78" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-79" value="填充简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="500" as="sourcePoint" />
+            <mxPoint x="720" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-82" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-83" value="删除简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="590" as="sourcePoint" />
+            <mxPoint x="720" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-86" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-87" value="下载简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.292;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-36" target="LNTtabJiNuTZUa_Hpd2q-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487" y="603" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-103" value="下载简历要求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LNTtabJiNuTZUa_Hpd2q-88">
+          <mxGeometry x="-0.1447" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-93" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="670" as="sourcePoint" />
+            <mxPoint x="720" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-95" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-96" value="填充简历" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LNTtabJiNuTZUa_Hpd2q-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="652" as="sourcePoint" />
+            <mxPoint x="560" y="649" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.042;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="670" as="sourcePoint" />
+            <mxPoint x="470" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-101" value="删除成功消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LNTtabJiNuTZUa_Hpd2q-98">
+          <mxGeometry x="-0.1243" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.008;exitY=0.822;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.029;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNTtabJiNuTZUa_Hpd2q-84" target="LNTtabJiNuTZUa_Hpd2q-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="670" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNTtabJiNuTZUa_Hpd2q-104" value="下载成功消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LNTtabJiNuTZUa_Hpd2q-102">
+          <mxGeometry x="0.1371" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
